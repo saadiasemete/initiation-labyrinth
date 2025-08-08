@@ -1,0 +1,2 @@
+def echolocate(listener):
+    pass
